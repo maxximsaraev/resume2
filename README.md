@@ -3,4 +3,4 @@
 ## Результат вы можете посмотреть тут
 
 
-[Моя первая работа на HTML & CSS]([https://maxximsaraev.github.io/resume2])
+[Моя первая работа на HTML & CSS](https://maxximsaraev.github.io/resume2)
